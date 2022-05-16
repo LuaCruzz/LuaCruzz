@@ -5,7 +5,6 @@
 - 🌱 Estudando Python, Java, HTML e CSS.
 - 💬 Entre em contato pelo meu e-mail: luana.cruz@unisantos.br
 - ⚡ Estou a procura de um emprego na minha área (me formando em Ciência da Computação).
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/LuaCruzz">
