@@ -1,4 +1,4 @@
-### Oii, eu sou a Luana Cruz 👋
+### Oii, eu sou a Luana 👋
 
 
 - 🔭 Atualmente estou aumentando minhas habilidades em Back e Front End.
