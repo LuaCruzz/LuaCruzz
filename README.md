@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou aumentando minhas habilidades em Back e Front End.
-- 🌱 Estudando Python, Java, HTML e CSS.
+- 🌱 Estudando C, Python, Java, HTML e CSS.
 - 💬 Entre em contato pelo meu e-mail: luana.cruz@unisantos.br
 - ⚡ Estou a procura de um emprego na minha área (me formando em Ciência da Computação).
 
