@@ -18,7 +18,6 @@
   <img align="center" alt="Lua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lua-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lua-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="right" alt="Lua-pic" height="170" style="border-radius:50px;" src="https://glacier-sweatpants-c18.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbc193fa2-4ec7-49aa-b512-35689086bfad%2FANIME.gif?table=block&id=8fac78d7-9964-4b21-a486-b7d89142da4e&spaceId=01987668-4bd5-4b16-af3f-000ccc7e1363&userId=&cache=v2">
 </div>
